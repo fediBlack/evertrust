@@ -1,3 +1,4 @@
 {
-  "recommendations": ["Vue.volar"]
+  "recommendations": ["Vue.volar"],
+  "eslint.validate": ["vue", "typescript", "javascript"]
 }

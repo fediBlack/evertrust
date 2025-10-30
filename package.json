@@ -20,6 +20,7 @@
     "vue-router": "^4.6.3"
   },
   "devDependencies": {
+    "@eslint/js": "^9.38.0",
     "@redocly/openapi-cli": "^0.12.16",
     "@types/node": "^24.6.0",
     "@vitejs/plugin-vue": "^6.0.1",
@@ -32,8 +33,10 @@
     "jsdom": "^27.0.1",
     "prettier": "^3.6.2",
     "typescript": "~5.9.3",
+    "typescript-eslint": "^8.46.2",
     "vite": "^7.1.7",
     "vitest": "^4.0.5",
+    "vue-eslint-parser": "^10.2.0",
     "vue-tsc": "^3.1.2"
   }
 }
